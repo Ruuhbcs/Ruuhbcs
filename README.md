@@ -36,13 +36,13 @@
 <a href="https://codepen.io/maykbrito" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Ruuh%20ッ-05122A?style=flat&logo=discord" alt="codepen"/>
 </a>
-<a href="https://twitter.com/maykbrito" target="_blank">
+<a href="https://twitter.com/AwareRuuh" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-AwareRuuh-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://linkedin.com/in/maykbrito" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/maykbrito" target="_blank">
+<a href="https://www.instagram.com/awareruuh/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Awareruuh-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 

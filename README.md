@@ -1,4 +1,4 @@
-<img align="right" height="300em" src="https://cdn.discordapp.com/attachments/809816670071816222/960022788121428028/20220403_004649.gif"/>
+<img align="right" height="200em" src="https://cdn.discordapp.com/attachments/809816670071816222/960022788121428028/20220403_004649.gif"/>
 <h1 align="left">Oii, eu sou a Ruth!</h1>
 
 - 👩🏾‍💻 Tenho 18 anos!

@@ -6,7 +6,7 @@
 - 🚀 Atualmente me aventuro tanto em back-end como no front-end.
 - 📚 Amo tecnologia, astronomia e literatura.
 - 💭 INFJ
-- 📧 Você pode entrar contato comigo por este e-mail:Ruthbarbosacs@gmail.com
+- 📧 Você pode entrar contato comigo por este e-mail: Ruthbarbosacs@gmail.com
 
 <br><br>
 

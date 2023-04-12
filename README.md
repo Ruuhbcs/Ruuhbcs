@@ -1,4 +1,6 @@
-<img align="right" height="200em" src="https://cdn.discordapp.com/attachments/809816670071816222/960022788121428028/20220403_004649.gif"/>
+<img align="right" height="200em" style="margin-top: 20px;" src="https://cdn.discordapp.com/attachments/809816670071816222/960022788121428028/20220403_004649.gif"/>
+
+
 <h1 align="left">Oii, eu sou a Ruth!</h1>
 
 - 👩🏾‍💻 Tenho 18 anos!
@@ -25,7 +27,7 @@
 
 ## ⚙️ &nbsp;GitHub Analytics:
 
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruuhbcs&layout=compact&card_width=490&card_height=195&rand=123)
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruuhbcs&layout=compact&card_width=490&card_height=195&rand=123&bg_color=0D1117&title_color=999999)
 
 
 

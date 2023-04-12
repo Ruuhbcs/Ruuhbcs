@@ -1,7 +1,6 @@
-<img align="right" height="200em" style="margin-top: 20px;" src="https://cdn.discordapp.com/attachments/809816670071816222/960022788121428028/20220403_004649.gif"/>
+<h1 align="center">Oii, sou a Ruth!</h1>
+<img src="https://cdn.discordapp.com/attachments/809816670071816222/960022788121428028/20220403_004649.gif" align="right" width="310" />
 
-
-<h1 align="left">Oii, eu sou a Ruth!</h1>
 
 - 👩🏾‍💻 Tenho 18 anos!
 - 😏 Estou sempre disposta a aprender e me arriscar em novas coisas.
@@ -26,23 +25,27 @@
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics:
-
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruuhbcs&layout=compact&card_width=490&card_height=195&rand=123&bg_color=0D1117&title_color=999999)
-
-
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruuhbcs&hide=html&layout=compact&theme=synthwave" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Ruuhbcs&show_icons=true&theme=synthwave&"/></td>
+    </tr>   
+</table>
+</center> 
 
 ## ❐ &nbsp;Você pode me encontrar em:
 
 <p align="left" style="background:yellow">
 <a href="https://codepen.io/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Ruuh%20ッ-05122A?style=flat&logo=discord" alt="codepen"/>
+  <img align="center" src="https://img.shields.io/badge/Ruuh%20ッ-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
 </a>
 <a href="https://twitter.com/AwareRuuh" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-AwareRuuh-05122A?style=flat&logo=twitter" alt="twitter"/>  
+  <img align="center" src="https://img.shields.io/badge/Awareruuh-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>  
 </a>
 <a href="https://www.linkedin.com/in/ruth-barbosa-a35616236/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Ruth%20Barbosa-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/RuthBarbosa-%233314D2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
-<a href="https://www.instagram.com/awareruuh/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Awareruuh-05122A?style=flat&logo=instagram" alt="instagram"/>
+<a href="https://www.instagram.com/ruuhbcs/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/@Ruuhbcs-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
 </a>

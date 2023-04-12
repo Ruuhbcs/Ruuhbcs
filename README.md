@@ -25,12 +25,8 @@
 
 ## ⚙️ &nbsp;GitHub Analytics:
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=AwareRuuh&show_icons=true&theme=dracula" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AwareRuuh&layout=compact&theme=dracula" alt="maykbrito's most languages"/>
-</p>
+(https://github-readme-stats.vercel.app/api/top-langs/?username=Ruuhbcs&layout=compact)
 
-<br><br>
 
 ## ❐ &nbsp;Você pode me encontrar em:
 

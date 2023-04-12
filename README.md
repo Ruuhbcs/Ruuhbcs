@@ -37,7 +37,7 @@
 ## ❐ &nbsp;Você pode me encontrar em:
 
 <p align="left" style="background:yellow">
-<a href="https://codepen.io/maykbrito" target="_blank">
+<a href="https://discord.com/users/4474" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Ruuh%20ッ-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
 </a>
 <a href="https://twitter.com/AwareRuuh" target="_blank">

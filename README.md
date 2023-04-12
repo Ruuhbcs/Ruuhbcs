@@ -25,7 +25,7 @@
 
 ## ⚙️ &nbsp;GitHub Analytics:
 
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact)
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruuhbcs&layout=compact)
 
 
 

@@ -2,8 +2,8 @@
 <img src="https://cdn.discordapp.com/attachments/809816670071816222/960022788121428028/20220403_004649.gif" align="right" width="310" />
 
 
-- 👩🏾‍💻 Tenho 18 anos!
-- 😏 Estou sempre disposta a aprender e me arriscar em novas coisas.
+- 👩🏾‍💻 Tenho 19 anos!
+- 🫡 Estou sempre disposta a aprender e me arriscar em novas coisas.
 - 🚀 Atualmente me aventuro tanto em back-end como no front-end.
 - 📚 Amo tecnologia, astronomia e literatura.
 - 💭 INFJ
@@ -15,9 +15,9 @@
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=JavaScript)
-![GitKraken](https://img.shields.io/badge/-GitKraken-05122A?style=flat&logo=GitKraken)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![GitKraken](https://img.shields.io/badge/-GitKraken-05122A?style=flat&logo=GitKraken)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;

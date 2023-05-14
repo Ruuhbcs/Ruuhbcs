@@ -3,7 +3,7 @@
 
 
 - 👩🏾‍💻 Tenho 19 anos!
-- 🫡 Estou sempre disposta a aprender e me arriscar em novas coisas.
+- 😄 Estou sempre disposta a aprender e me arriscar em novas coisas.
 - 🚀 Atualmente me aventuro tanto em back-end como no front-end.
 - 📚 Amo tecnologia, astronomia e literatura.
 - 💭 INFJ
@@ -29,7 +29,7 @@
 <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruuhbcs&hide=html&layout=compact&theme=synthwave" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Ruuhbcs&show_icons=true&theme=synthwave&"/></td>
+        <td><img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=Ruuhbcs&show_icons=true&theme=synthwave&"/></td>
     </tr>   
 </table>
 </center> 

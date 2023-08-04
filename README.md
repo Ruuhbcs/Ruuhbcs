@@ -1,5 +1,5 @@
 <h1 align="center">Oii, sou a Ruth!</h1>
-<img src="https://cdn.discordapp.com/attachments/809816670071816222/960022788121428028/20220403_004649.gif" align="right" width="310" />
+<img src="https://cdn.discordapp.com/attachments/809816670071816222/1136886037214404608/20230804_014721.gif" align="right" width="310" />
 
 
 - 👩🏾‍💻 Tenho 19 anos!

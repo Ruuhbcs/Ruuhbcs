@@ -36,10 +36,6 @@
 <p align="left" style="background:yellow">
 <a href="https://discord.com/users/4474" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Ruuh%20ッ-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
-</a>
-<a href="https://twitter.com/AwareRuuh" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Awareruuh-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>  
-</a>
 <a href="https://www.linkedin.com/in/ruth-barbosa-a35616236/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/RuthBarbosa-%233314D2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>

@@ -2,7 +2,7 @@
 <img src="https://cdn.discordapp.com/attachments/809816670071816222/1136886037214404608/20230804_014721.gif" align="right" width="310" />
 
 
-- 👩🏾‍💻 Tenho 19 anos!
+- 👩🏾‍💻 Tenho 20 anos!
 - 😄 Estou sempre disposta a aprender e me arriscar em novas coisas.
 - 🚀 Atualmente me aventuro tanto em back-end como no front-end.
 - 📚 Amo tecnologia, astronomia e literatura.
